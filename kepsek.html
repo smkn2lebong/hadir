@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitoring - Kepala Sekolah</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-left">
+                <h1>📊 MONITORING KEPALA SEKOLAH</h1>
+                <div class="date-display" id="currentDate"></div>
+            </div>
+            <div class="header-right">
+                <span id="userInfo"></span>
+                <button onclick="logout()" class="logout-btn">🚪 Keluar</button>
+            </div>
+        </div>
+
+        <div class="filter-section">
+            <div class="filter-group">
+                <label for="dateFilter">Pilih Tanggal:</label>
+                <input type="date" id="dateFilter">
+                <button onclick="loadData()" class="btn btn-primary">🔍 Tampilkan</button>
+            </div>
+            <div class="filter-group">
+                <button onclick="exportExcel()" class="btn btn-success">📥 Export Excel</button>
+                <button onclick="showRekapBulanan()" class="btn btn-info">📈 Rekap Bulanan</button>
+            </div>
+        </div>
+
+        <div class="stats-grid" id="statsGrid">
+            <div class="stat-card">
+                <div class="stat-number" id="totalSiswa">0</div>
+                <div class="stat-label">Total Siswa</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number present" id="totalHadir">0</div>
+                <div class="stat-label">Hadir</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number absent" id="totalTidak">0</div>
+                <div class="stat-label">Tidak Hadir</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number percentage" id="persentase">0%</div>
+                <div class="stat-label">Persentase</div>
+            </div>
+        </div>
+
+        <div class="table-section">
+            <h3>Rekap Per Kelas - <span id="selectedDate"></span></h3>
+            <div class="table-container">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Kelas</th>
+                            <th>Total</th>
+                            <th>Hadir</th>
+                            <th>Tidak</th>
+                            <th>Sakit</th>
+                            <th>Izin</th>
+                            <th>Persentase</th>
+                        </tr>
+                    </thead>
+                    <tbody id="classTableBody"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Memuat data monitoring...</p>
+        </div>
+    </div>
+
+    <script src="js/config.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/monitoring.js"></script>
+</body>
+</html>

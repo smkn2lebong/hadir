@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guru Piket - Absensi Digital</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="header-left">
+                <h1>📋 ABSENSI GURU PIKET</h1>
+                <div class="date-display" id="currentDate"></div>
+            </div>
+            <div class="header-right">
+                <span id="userInfo"></span>
+                <button class="logout-btn" onclick="logout()">🚪 Keluar</button>
+            </div>
+        </div>
+
+        <div class="class-selector">
+            <label for="classSelect">Pilih Kelas:</label>
+            <select id="classSelect">
+                <option value="">-- Loading Kelas --</option>
+            </select>
+        </div>
+
+        <div class="info-box">
+            <strong>💡 CARA CEPAT:</strong> Semua siswa diasumsikan <strong style="color: #27ae60;">HADIR</strong>. 
+            Hanya pilih status untuk yang <strong style="color: #e74c3c;">TIDAK HADIR</strong>, 
+            <strong style="color: #f39c12;">SAKIT</strong>, atau 
+            <strong style="color: #3498db;">IZIN</strong>.
+        </div>
+
+        <div class="class-info" id="classInfo" style="display: none;">
+            <h3 id="className"></h3>
+            <div class="class-stats">
+                <span>Total: <strong id="totalStudents">0</strong> siswa</span>
+            </div>
+        </div>
+
+        <div class="attendance-section" id="attendanceSection" style="display: none;">
+            <div class="table-container">
+                <div class="table-header">
+                    <div class="col-no">No</div>
+                    <div class="col-name">Nama Siswa</div>
+                    <div class="col-nis">NIS</div>
+                    <div class="col-status">Status</div>
+                    <div class="col-actions">Catatan</div>
+                </div>
+                <div class="table-body" id="studentList"></div>
+            </div>
+        </div>
+
+        <div class="action-section" id="actionSection" style="display: none;">
+            <div class="summary">
+                <div class="summary-item">
+                    <div class="summary-number" id="totalCount">0</div>
+                    <div>Total</div>
+                </div>
+                <div class="summary-item">
+                    <div class="summary-number present" id="presentCount">0</div>
+                    <div>Hadir</div>
+                </div>
+                <div class="summary-item">
+                    <div class="summary-number absent" id="absentCount">0</div>
+                    <div>Tidak</div>
+                </div>
+                <div class="summary-item">
+                    <div class="summary-number sick" id="sickCount">0</div>
+                    <div>Sakit</div>
+                </div>
+                <div class="summary-item">
+                    <div class="summary-number izin" id="izinCount">0</div>
+                    <div>Izin</div>
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <button class="btn btn-primary" onclick="simpanAbsensi()">💾 SIMPAN ABSENSI</button>
+                <button class="btn btn-secondary" onclick="resetAbsensi()">🔄 RESET</button>
+            </div>
+        </div>
+
+        <div class="loading" id="loading">
+            <div class="spinner"></div>
+            <p>Memuat data siswa...</p>
+        </div>
+    </div>
+
+    <div class="modal" id="noteModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>📝 Catatan Kejadian</h3>
+                <button class="close-btn" onclick="closeNoteModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div id="studentInfo"></div>
+                <div class="form-group">
+                    <label>Jenis Kejadian:</label>
+                    <select id="incidentType">
+                        <option value="">-- Pilih Jenis --</option>
+                        <option value="merokok">Merokok</option>
+                        <option value="berkelahi">Berkelahi</option>
+                        <option value="bolos">Bolos</option>
+                        <option value="terlambat">Terlambat</option>
+                        <option value="seragam">Pelanggaran Seragam</option>
+                        <option value="tidak_tertib">Tidak Tertib</option>
+                        <option value="lainnya">Lainnya</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Deskripsi:</label>
+                    <textarea id="incidentDesc" placeholder="Jelaskan kejadian..."></textarea>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" onclick="closeNoteModal()">Batal</button>
+                <button class="btn btn-primary" onclick="saveNote()">Simpan Catatan</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/config.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/data-loader.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2124 @@
+{
+  "last_update": "2025-10-22",
+  "total_siswa": 353,
+  "siswa": [
+    {
+      "id": 2,
+      "nis": "95545949",
+      "nama": "ANGGI OKTARINA",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 3,
+      "nis": "105753490",
+      "nama": "ARAFA ANANTA",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 4,
+      "nis": "115802055",
+      "nama": "CENDI APRILIA",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 5,
+      "nis": "106519917",
+      "nama": "HELENA ANINDIA",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 6,
+      "nis": "3101184888",
+      "nama": "INDAH PUTRI UTAMI",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 7,
+      "nis": "96900250",
+      "nama": "INTAN NATALIA",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 8,
+      "nis": "103285182",
+      "nama": "LIAN ANGGELITA PUTRI",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 9,
+      "nis": "98164900",
+      "nama": "MEIKA ZALWA",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 10,
+      "nis": "3107449138",
+      "nama": "SAFA WIDYANTI",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 11,
+      "nis": "98062838",
+      "nama": "SEZA RAMADANI",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 12,
+      "nis": "96431404",
+      "nama": "SUSAN VIANI PUTRI",
+      "kelas": "10_tata_busana"
+    },
+    {
+      "id": 13,
+      "nis": "105697252",
+      "nama": "ABIOZIL PRATAMA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 14,
+      "nis": "103552150",
+      "nama": "ADEL APRILIAN",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 15,
+      "nis": "102971703",
+      "nama": "AHMAD FAISAL",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 16,
+      "nis": "91501212",
+      "nama": "AMBUN ADELLYA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 17,
+      "nis": "111912671",
+      "nama": "AMIRA SAPUTRI",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 18,
+      "nis": "109218012",
+      "nama": "ARDILA NOPIZA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 19,
+      "nis": "107655719",
+      "nama": "CELSI APRIZA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 20,
+      "nis": "3102084499",
+      "nama": "CHELSI MARSELIA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 21,
+      "nis": "109713233",
+      "nama": "CHIKO ANANDA FRASETYO",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 22,
+      "nis": "95066212",
+      "nama": "DEA NATALIA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 23,
+      "nis": "91733807",
+      "nama": "DEKO ARIZKO",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 24,
+      "nis": "103510269",
+      "nama": "DEVIRA RAMADHANI",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 25,
+      "nis": "105815957",
+      "nama": "FAREL ADITYA APRIALDO",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 26,
+      "nis": "104120784",
+      "nama": "FAUZAN APRIANSYAH",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 27,
+      "nis": "107147743",
+      "nama": "FICRA CANDRA SATRIA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 28,
+      "nis": "3103816998",
+      "nama": "FRISILIA ANANTA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 29,
+      "nis": "104508476",
+      "nama": "GRESTI LOWRENZA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 30,
+      "nis": "108467671",
+      "nama": "KEN HEBIN",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 31,
+      "nis": "101661561",
+      "nama": "LETISYA ANGGRAENI",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 32,
+      "nis": "103550162",
+      "nama": "LIANTI APRI LESTARI",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 33,
+      "nis": "109528875",
+      "nama": "M. FARHAN",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 34,
+      "nis": "94074755",
+      "nama": "M. ILHAM",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 35,
+      "nis": "102480021",
+      "nama": "MANO DEANSI",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 36,
+      "nis": "94245251",
+      "nama": "MUHAMAT RIFKI ADITYA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 37,
+      "nis": "98209428",
+      "nama": "NOVI ARIANTI",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 38,
+      "nis": "108556910",
+      "nama": "PARIS YANSAH",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 39,
+      "nis": "3109015314",
+      "nama": "PIKA DAYANI",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 40,
+      "nis": "91719165",
+      "nama": "RAPKA JONATA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 41,
+      "nis": "109241837",
+      "nama": "RENDI ADITIA PRATAMA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 42,
+      "nis": "116437137",
+      "nama": "REZAN PAHRIAN",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 43,
+      "nis": "92587407",
+      "nama": "SAFA NUR AINI",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 44,
+      "nis": "94651341",
+      "nama": "SILPIA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 45,
+      "nis": "91751179",
+      "nama": "SURYANTO",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 46,
+      "nis": "105558782",
+      "nama": "TASA VALENTIA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 47,
+      "nis": "91928422",
+      "nama": "TIKI OKAN SYAHPUTRA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 48,
+      "nis": "108381544",
+      "nama": "ZAZA AZAIRA",
+      "kelas": "10_dkv"
+    },
+    {
+      "id": 49,
+      "nis": "103559627",
+      "nama": "ADAM PRASETIYO",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 50,
+      "nis": "104470714",
+      "nama": "ADITIYA CAHYA PUTRA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 51,
+      "nis": "99631841",
+      "nama": "AFIYEN AGUSTIAN",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 52,
+      "nis": "93523425",
+      "nama": "AGUNG DIMAS SUDIPIO",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 53,
+      "nis": "85269813",
+      "nama": "AGUSTIAN HERIANTO PRATAMA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 54,
+      "nis": "99567898",
+      "nama": "AL PATIR",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 55,
+      "nis": "96305692",
+      "nama": "ALDO ADEPIO",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 56,
+      "nis": "104822830",
+      "nama": "ALFIN OQTA SAPUTRA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 57,
+      "nis": "84633330",
+      "nama": "ANGRA AGUSTIAN",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 58,
+      "nis": "101811321",
+      "nama": "ARIEL WILYAM",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 59,
+      "nis": "98660028",
+      "nama": "ATDLI PUTRA UTAMA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 60,
+      "nis": "85099300",
+      "nama": "BAIM LIONO",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 61,
+      "nis": "98232471",
+      "nama": "FADIL SAPUTRA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 62,
+      "nis": "109255165",
+      "nama": "FAREL PRANATA SAPUTRA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 63,
+      "nis": "103549401",
+      "nama": "FARHAN KURIANSYAH",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 64,
+      "nis": "101765901",
+      "nama": "FASYAH MARDINATA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 65,
+      "nis": "94184386",
+      "nama": "FAUZAN AKBAR",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 66,
+      "nis": "105442928",
+      "nama": "M. BAGAS",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 67,
+      "nis": "109900469",
+      "nama": "M.GIVARY ALZAQY",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 68,
+      "nis": "106025118",
+      "nama": "MARCEL DWI PUTRA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 69,
+      "nis": "108656088",
+      "nama": "MUHAMAD REDIANA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 70,
+      "nis": "109055729",
+      "nama": "MUHAMMAD AZHAR HABIL",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 71,
+      "nis": "106587409",
+      "nama": "MUHAMMAD GHEBI BI ADE",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 72,
+      "nis": "98511593",
+      "nama": "NOLAN AIDIL ADHA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 73,
+      "nis": "99939116",
+      "nama": "NOVAN FABIAN",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 74,
+      "nis": "97418990",
+      "nama": "PARIQ AL IKHSAN",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 75,
+      "nis": "93356914",
+      "nama": "RAHMAN HABIBI",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 76,
+      "nis": "101006699",
+      "nama": "RAMLAN ADITIA SAPUTRA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 77,
+      "nis": "104930311",
+      "nama": "RAYHAN SYAH",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 78,
+      "nis": "99793354",
+      "nama": "REDI ANDRA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 79,
+      "nis": "81172669",
+      "nama": "RIPALDO",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 80,
+      "nis": "103995828",
+      "nama": "RISKI ADE SAPUTRA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 81,
+      "nis": "101333738",
+      "nama": "STEPEN JAYA WINATA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 82,
+      "nis": "107735927",
+      "nama": "VIREN ADRIAN SAPUTRA",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 83,
+      "nis": "103523200",
+      "nama": "VIZEL ATTAHYA CELIO",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 84,
+      "nis": "99783602",
+      "nama": "ZEXI ARDIANSYAH",
+      "kelas": "10_listrik"
+    },
+    {
+      "id": 85,
+      "nis": "108634955",
+      "nama": "A. SAFITRA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 86,
+      "nis": "101882232",
+      "nama": "AFDHAL YUSRA ALHABIB",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 87,
+      "nis": "104536463",
+      "nama": "AFRIDO SAPUTRA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 88,
+      "nis": "89607446",
+      "nama": "AHYAT BAROKAH",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 89,
+      "nis": "116416254",
+      "nama": "ALLAZI SIGIT FABIANO",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 90,
+      "nis": "74396129",
+      "nama": "ANDESTA PRATAMA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 91,
+      "nis": "109378426",
+      "nama": "ASEP MUBAIDILAH",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 92,
+      "nis": "3104712964",
+      "nama": "DEBI LAGIANSAH",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 93,
+      "nis": "3093955216",
+      "nama": "FA'IZ MUHAMMAD NIO",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 94,
+      "nis": "78698638",
+      "nama": "FAREL MAHESA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 95,
+      "nis": "105023139",
+      "nama": "FAUZAN ZULHAJ MAHENDRA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 96,
+      "nis": "3118098816",
+      "nama": "FERNANDO AZRIEL TORRES",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 97,
+      "nis": "106492760",
+      "nama": "IQBAL FAISAL",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 98,
+      "nis": "3093507047",
+      "nama": "JORDI HIDAYATULLAH",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 99,
+      "nis": "97077220",
+      "nama": "KEFIN JAYA PRATAMA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 100,
+      "nis": "3105024928",
+      "nama": "LOBERTO KARLOS",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 101,
+      "nis": "109349955",
+      "nama": "MAIKEL SAPUTRA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 102,
+      "nis": "109712156",
+      "nama": "MIZEL PERDANA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 103,
+      "nis": "103486002",
+      "nama": "MUHAMMAD FAHRI",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 104,
+      "nis": "109512168",
+      "nama": "MUHAMMAD HAFIZ SAPUTRA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 105,
+      "nis": "97771315",
+      "nama": "MUHAMMAD RISKI",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 106,
+      "nis": "93710644",
+      "nama": "MUHAMMAD YAQIN",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 107,
+      "nis": "108271326",
+      "nama": "MUHAMMAD ZAKI",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 108,
+      "nis": "109138438",
+      "nama": "RAHMAD BUDIYONO",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 109,
+      "nis": "104669379",
+      "nama": "REKAL RIKARDO",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 110,
+      "nis": "109027467",
+      "nama": "RENDI",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 111,
+      "nis": "109356746",
+      "nama": "RHEY RENFAL WARJOYO",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 112,
+      "nis": "3107724132",
+      "nama": "RINO AZHAR RAMADHAN",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 113,
+      "nis": "118563204",
+      "nama": "ROBI ANDESTA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 114,
+      "nis": "3083572243",
+      "nama": "ROBIYANSAH",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 115,
+      "nis": "109481080",
+      "nama": "SEHZAN JOLIANDA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 116,
+      "nis": "98558030",
+      "nama": "TOMAS RENDI REPANDO",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 117,
+      "nis": "106550790",
+      "nama": "YOKI MAWARTO",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 118,
+      "nis": "3105011728",
+      "nama": "YUDA AGUSTIAN RAMADHAN",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 119,
+      "nis": "85115645",
+      "nama": "YUSUF BARKA",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 120,
+      "nis": "109158183",
+      "nama": "ZIQRI ALBAROK",
+      "kelas": "10_tkr"
+    },
+    {
+      "id": 121,
+      "nis": "104594141",
+      "nama": "ABIM BRILIANT",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 122,
+      "nis": "3106604711",
+      "nama": "AGUNG CAHYA SAPUTRA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 123,
+      "nis": "92674102",
+      "nama": "AGUNG SAPUTRA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 124,
+      "nis": "91985476",
+      "nama": "ARJUNA GALANG DWI PRASETYO",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 125,
+      "nis": "95828968",
+      "nama": "AZAM MULKHOIR",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 126,
+      "nis": "102454244",
+      "nama": "BAGAS ILHAMI",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 127,
+      "nis": "104352825",
+      "nama": "BAGUS WAHYUDI",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 128,
+      "nis": "102588106",
+      "nama": "DANIL MEZICO ARPIEN",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 129,
+      "nis": "3106253521",
+      "nama": "DIMAS ADI SYAPUTRA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 130,
+      "nis": "98177649",
+      "nama": "FAREL AKBAR SAPUTRA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 131,
+      "nis": "98893158",
+      "nama": "FATAH ANJAR PRATAMA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 132,
+      "nis": "112213961",
+      "nama": "FEBRIANSYAH WIRA YUDHA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 133,
+      "nis": "105709962",
+      "nama": "GILSIN GAFALSING",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 134,
+      "nis": "105710403",
+      "nama": "GINANT RAHMATULLAH",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 135,
+      "nis": "109417198",
+      "nama": "HAZRIEL DIO ADE PISA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 136,
+      "nis": "95054872",
+      "nama": "IKBAL FARNADO",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 137,
+      "nis": "89582590",
+      "nama": "JOHAN APRIL YANSYAH",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 138,
+      "nis": "91043472",
+      "nama": "JOSE ADE PUTRA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 139,
+      "nis": "109087406",
+      "nama": "JUAN SBASTIAN",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 140,
+      "nis": "95352012",
+      "nama": "JUNIO STEFANO",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 141,
+      "nis": "97274063",
+      "nama": "KEIZA RAMDAN SAPUTRA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 142,
+      "nis": "101803244",
+      "nama": "M. FATIH AL GHANIYYU",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 143,
+      "nis": "97172974",
+      "nama": "M. RAFFI SYAHBANI",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 144,
+      "nis": "109568425",
+      "nama": "M. RIDHO",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 145,
+      "nis": "89773183",
+      "nama": "MARSEL AKMI",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 146,
+      "nis": "97920251",
+      "nama": "MUHAMMMAD RABIL IKHSAN",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 147,
+      "nis": "103264169",
+      "nama": "NAUFAL ANANDA PUTRA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 148,
+      "nis": "103787393",
+      "nama": "NOPREN KRISTIAN ARDINATA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 149,
+      "nis": "74258864",
+      "nama": "PIYO ERLANGGA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 150,
+      "nis": "106693685",
+      "nama": "RADIT ARDIANSYAH",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 151,
+      "nis": "97211511",
+      "nama": "RADO SAPUTRA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 152,
+      "nis": "91407307",
+      "nama": "REGIP OKTA PRATAMA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 153,
+      "nis": "105767699",
+      "nama": "RONAL PUTRA RAMADHAN",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 154,
+      "nis": "107402788",
+      "nama": "SATRI WAHYUDI",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 155,
+      "nis": "77918246",
+      "nama": "VANDU SEPTIO RAMADHAN",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 156,
+      "nis": "106932244",
+      "nama": "WAHYU SUGANDA",
+      "kelas": "10_tsm"
+    },
+    {
+      "id": 157,
+      "nis": "93128974",
+      "nama": "ANDRI PAULINA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 158,
+      "nis": "98047545",
+      "nama": "ANISA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 159,
+      "nis": "93428268",
+      "nama": "ARGA CEASAR PRATAMA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 160,
+      "nis": "85283297",
+      "nama": "ARLIA DEVA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 161,
+      "nis": "91875095",
+      "nama": "AZELIA OCTAVIA PUTRI",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 162,
+      "nis": "104771900",
+      "nama": "BINTANG ADESKA REVALINA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 163,
+      "nis": "97297243",
+      "nama": "DIANTA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 164,
+      "nis": "97807935",
+      "nama": "DZAKIYYAH",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 165,
+      "nis": "98717995",
+      "nama": "HANIFA PADILLAH",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 166,
+      "nis": "92729056",
+      "nama": "JECHYKA PUTRI DHALITA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 167,
+      "nis": "85301602",
+      "nama": "KRISDAYANTI",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 168,
+      "nis": "83848301",
+      "nama": "LAURA AGUSTINA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 169,
+      "nis": "82104982",
+      "nama": "LEO SUTANTO",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 170,
+      "nis": "91393001",
+      "nama": "LIDYA FEBRIYANTI",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 171,
+      "nis": "85279728",
+      "nama": "M. DUTA RIZKI ATALLAH",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 172,
+      "nis": "97016982",
+      "nama": "MAULANA MALIK IBRAHIM",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 173,
+      "nis": "91472236",
+      "nama": "NABILA SAKIB",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 174,
+      "nis": "95516260",
+      "nama": "RIFDA ARAFA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 175,
+      "nis": "3102113844",
+      "nama": "SUKRILHAM WILDAN",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 176,
+      "nis": "93996818",
+      "nama": "TESA GUSTINA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 177,
+      "nis": "3086819371",
+      "nama": "TWENTY AGUSTINA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 178,
+      "nis": "92835039",
+      "nama": "VAREL APRIANDO",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 179,
+      "nis": "94956761",
+      "nama": "YOLITA",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 180,
+      "nis": "93629638",
+      "nama": "YOZU WAHYUNI",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 181,
+      "nis": "97304799",
+      "nama": "ZEVIRIANI",
+      "kelas": "11_dkv"
+    },
+    {
+      "id": 182,
+      "nis": "157399028",
+      "nama": "ADEL DWI HERLINA",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 183,
+      "nis": "3088611890",
+      "nama": "AHMI",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 184,
+      "nis": "95026559",
+      "nama": "FENZA DESTARI",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 185,
+      "nis": "97359264",
+      "nama": "GISELA APRIYANTI",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 186,
+      "nis": "109042350",
+      "nama": "INTAN NAPASYAH",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 187,
+      "nis": "88025525",
+      "nama": "KESI LIA",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 188,
+      "nis": "81793521",
+      "nama": "KESYA TRI INDAH",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 189,
+      "nis": "92767182",
+      "nama": "LAURA MERSELIANA",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 190,
+      "nis": "91821456",
+      "nama": "NEZA MARLINDA",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 191,
+      "nis": "93986988",
+      "nama": "PINZA VADILLAH",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 192,
+      "nis": "92081626",
+      "nama": "RAYSA FEBRIANA",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 193,
+      "nis": "89608330",
+      "nama": "SANTA AMELIA",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 194,
+      "nis": "86373059",
+      "nama": "TASYA AZZAHRA",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 195,
+      "nis": "108130335",
+      "nama": "TRISIA AMELYA",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 196,
+      "nis": "95854225",
+      "nama": "WINDI SENJA MENTARI",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 197,
+      "nis": "99432877",
+      "nama": "ZAHRA RAMADHANI",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 198,
+      "nis": "82542710",
+      "nama": "ZENA SINTIA",
+      "kelas": "11_dpb"
+    },
+    {
+      "id": 199,
+      "nis": "97524236",
+      "nama": "AFRILIAN WIGU PRATAMA",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 200,
+      "nis": "3087697339",
+      "nama": "DAVID",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 201,
+      "nis": "96084942",
+      "nama": "FAHZA SIGIT RAMADHAN",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 202,
+      "nis": "87968316",
+      "nama": "MARI HARTATI",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 203,
+      "nis": "3092917239",
+      "nama": "MUHAMMAD IQBAL",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 204,
+      "nis": "3098895063",
+      "nama": "RIZA NOVELIA",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 205,
+      "nis": "93584201",
+      "nama": "SINTIA BELLA",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 206,
+      "nis": "83642749",
+      "nama": "TRI ANGGRAINI YUNIKA",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 207,
+      "nis": "95451403",
+      "nama": "VIVI WULAN DARI",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 208,
+      "nis": "89219678",
+      "nama": "YODI PAROLAH",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 209,
+      "nis": "98306980",
+      "nama": "YUISCA FITRI SEPTYANTI",
+      "kelas": "11_titl"
+    },
+    {
+      "id": 210,
+      "nis": "75354565",
+      "nama": "ALDO ALFIANDO",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 211,
+      "nis": "96338604",
+      "nama": "ARIEL WIRANTO",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 212,
+      "nis": "94385272",
+      "nama": "ARIES BHINA UTAMA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 213,
+      "nis": "93730765",
+      "nama": "ARYA PUTRA SUNDAWA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 214,
+      "nis": "99813239",
+      "nama": "ASHKA AL-FATIH",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 215,
+      "nis": "98240476",
+      "nama": "CAREL DWI PUTRA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 216,
+      "nis": "94879053",
+      "nama": "DORI YANG DOYOBA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 217,
+      "nis": "3087320832",
+      "nama": "FAHRI DWI PUTRA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 218,
+      "nis": "99317817",
+      "nama": "FATHAN SEPTIANSYAH",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 219,
+      "nis": "98545523",
+      "nama": "FEBRIAN JUNAIDI",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 220,
+      "nis": "3078495232",
+      "nama": "FIKO APRILLIANSYAH PRATAMA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 221,
+      "nis": "76348501",
+      "nama": "FIKRI ARIANTO",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 222,
+      "nis": "92320955",
+      "nama": "FIKRIANSYAH",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 223,
+      "nis": "85265019",
+      "nama": "HABIL AL FHATIR",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 224,
+      "nis": "99680651",
+      "nama": "M. AZIZUL FIKRAM",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 225,
+      "nis": "89362021",
+      "nama": "M. REZKI FIRDAUS",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 226,
+      "nis": "85405608",
+      "nama": "MARSEL SEPTIYANSAH",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 227,
+      "nis": "95203280",
+      "nama": "OGA KEMBARA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 228,
+      "nis": "93254869",
+      "nama": "OGI KEMBARA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 229,
+      "nis": "93231715",
+      "nama": "OKTRIS ADE SAPUTRA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 230,
+      "nis": "96094449",
+      "nama": "REDO DIO SAPUTRA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 231,
+      "nis": "98208982",
+      "nama": "RENO UMARZAH",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 232,
+      "nis": "96384439",
+      "nama": "SEBASTIAN FAREL",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 233,
+      "nis": "81204057",
+      "nama": "SIGIT HADIYANTO",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 234,
+      "nis": "76962750",
+      "nama": "TIO GETAR RAMADHAN",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 235,
+      "nis": "91079985",
+      "nama": "W. IKHSAN AL FATTAH",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 236,
+      "nis": "85804120",
+      "nama": "WAHYU ADITYA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 237,
+      "nis": "95399538",
+      "nama": "ZAKA ALFA RIZI",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 238,
+      "nis": "93063820",
+      "nama": "ZOLI AZIZ AHLZIKRA",
+      "kelas": "11_tkr"
+    },
+    {
+      "id": 239,
+      "nis": "95485588",
+      "nama": "ADITIA AZHAR AZIZ",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 240,
+      "nis": "82406249",
+      "nama": "AFWANDO SEPTIANDES",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 241,
+      "nis": "92687962",
+      "nama": "ALVARI MAHENDO",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 242,
+      "nis": "92901636",
+      "nama": "ANJES RIYANSAH",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 243,
+      "nis": "84465051",
+      "nama": "AVIB SATRIO",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 244,
+      "nis": "93311788",
+      "nama": "DENDI GUSTANKER",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 245,
+      "nis": "97468734",
+      "nama": "DYOBA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 246,
+      "nis": "96740206",
+      "nama": "FADILLA SURYA RINATA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 247,
+      "nis": "3091002589",
+      "nama": "FANTHER IFI SAKO",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 248,
+      "nis": "99360144",
+      "nama": "FATWA ALAMSAH",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 249,
+      "nis": "87234687",
+      "nama": "HANS FAREL NADEAK",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 250,
+      "nis": "94679429",
+      "nama": "HENZHI DELMALVIN",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 251,
+      "nis": "95865300",
+      "nama": "JIO DWI ANDRIAN",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 252,
+      "nis": "99878341",
+      "nama": "JUFAN BAGUS PRATAMA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 253,
+      "nis": "86395581",
+      "nama": "M. HANIF MAULANA FIKRI",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 254,
+      "nis": "89285856",
+      "nama": "M.FENO ARMANDO",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 255,
+      "nis": "82143402",
+      "nama": "M.MARSEL DWI IDHAM",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 256,
+      "nis": "85538824",
+      "nama": "MARCEL JOKI MAHENDRA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 257,
+      "nis": "99248962",
+      "nama": "MIRZA ALZIKRI ILHAM",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 258,
+      "nis": "3096611247",
+      "nama": "MUHAJI MASRIFALZA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 259,
+      "nis": "92071686",
+      "nama": "MUHAMAD KELVIN PRABOWO",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 260,
+      "nis": "93759061",
+      "nama": "MUHAMMAD ADEBA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 261,
+      "nis": "81361938",
+      "nama": "NOVEGA AL FATRA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 262,
+      "nis": "87416152",
+      "nama": "RAFLY RAMDHANI",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 263,
+      "nis": "87606867",
+      "nama": "RAIVEL FEBZEN GERALDI",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 264,
+      "nis": "3088851413",
+      "nama": "REVIL GLEN SISCO",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 265,
+      "nis": "82414460",
+      "nama": "RIAN RAMADAN",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 266,
+      "nis": "3088014923",
+      "nama": "RISKI PRATAMA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 267,
+      "nis": "82951688",
+      "nama": "SAKUT SAPUTRA DIOBA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 268,
+      "nis": "93327607",
+      "nama": "WAHID HAIRIL MUNA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 269,
+      "nis": "3094948249",
+      "nama": "YUDA MEDIANSYAH",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 270,
+      "nis": "99240092",
+      "nama": "ZIKRI ADINATA",
+      "kelas": "11_tsm"
+    },
+    {
+      "id": 271,
+      "nis": "77550563",
+      "nama": "ADITIA TIRINATA",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 272,
+      "nis": "84399916",
+      "nama": "ARIEF ALIANSYAH",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 273,
+      "nis": "87159120",
+      "nama": "DIKA HERLANGGA",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 274,
+      "nis": "83193727",
+      "nama": "ENJEL ERIKA DWI PUTRI",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 275,
+      "nis": "87692750",
+      "nama": "FERDI SUTOYO",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 276,
+      "nis": "85737096",
+      "nama": "KURNIA HANI",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 277,
+      "nis": "87464723",
+      "nama": "LAURA TRI JULIANTI",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 278,
+      "nis": "83389699",
+      "nama": "NANDES SUGITO",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 279,
+      "nis": "88027436",
+      "nama": "PELI JUMARTI",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 280,
+      "nis": "89803862",
+      "nama": "RERY ENJELINA",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 281,
+      "nis": "88919256",
+      "nama": "RHENDRA HADI PRATAMA",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 282,
+      "nis": "89165088",
+      "nama": "SABRINA ISTIKOMAH",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 283,
+      "nis": "82734620",
+      "nama": "SONA JIANTARI",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 284,
+      "nis": "87152906",
+      "nama": "STEFIS SANDO",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 285,
+      "nis": "82937457",
+      "nama": "VEBRYO MARCELL DINATA",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 286,
+      "nis": "81280615",
+      "nama": "YOVI SINTIA BELA",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 287,
+      "nis": "71450544",
+      "nama": "ZELIN DESFIRA NOVELIKA",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 288,
+      "nis": "83348745",
+      "nama": "ZHI LESTARI",
+      "kelas": "12_multimedia"
+    },
+    {
+      "id": 289,
+      "nis": "89707725",
+      "nama": "ANGGUN DWI LESTARI",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 290,
+      "nis": "89117481",
+      "nama": "BRENDA AGUSTINA",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 291,
+      "nis": "75113791",
+      "nama": "CHELSA SAFITRI",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 292,
+      "nis": "85122885",
+      "nama": "DEPIN SASA WIRANDA",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 293,
+      "nis": "86277175",
+      "nama": "HAFIZA DIANITA",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 294,
+      "nis": "86308113",
+      "nama": "JELITA CAHAYA DEWI",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 295,
+      "nis": "74412858",
+      "nama": "KEISYA MIFTAHUL JANNAH",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 296,
+      "nis": "74020601",
+      "nama": "KHARIN FITRIYANI",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 297,
+      "nis": "86992438",
+      "nama": "LUSI LESTARI",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 298,
+      "nis": "92866355",
+      "nama": "SYAKIRA ANNAJMI",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 299,
+      "nis": "83716269",
+      "nama": "TISMATUL IZZATI",
+      "kelas": "12_tata_busana"
+    },
+    {
+      "id": 300,
+      "nis": "88764969",
+      "nama": "ADE GILANG CAHYO",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 301,
+      "nis": "82090130",
+      "nama": "AGEMPA KARANATA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 302,
+      "nis": "86094894",
+      "nama": "ALBERT HUANG",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 303,
+      "nis": "77637757",
+      "nama": "BAYU FRANATA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 304,
+      "nis": "3073985754",
+      "nama": "BIMA PRATAMA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 305,
+      "nis": "87221082",
+      "nama": "DEKO SASTRA WIJAYA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 306,
+      "nis": "62821662",
+      "nama": "DENDI ARIANSYAH",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 307,
+      "nis": "77681963",
+      "nama": "DHEO DESVANO",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 308,
+      "nis": "72009049",
+      "nama": "DIRLI DEVITO",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 309,
+      "nis": "62652956",
+      "nama": "EWA OKA PUTRA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 310,
+      "nis": "88304923",
+      "nama": "FAIRUS ADITYA PUTRA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 311,
+      "nis": "85799048",
+      "nama": "FAREL ALLATIF AZIS",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 312,
+      "nis": "87825300",
+      "nama": "FAREL DEO",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 313,
+      "nis": "87626873",
+      "nama": "FARELDO SAPUTRA PRATAMA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 314,
+      "nis": "82022045",
+      "nama": "FEBI ANDO",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 315,
+      "nis": "86688542",
+      "nama": "GEVINDO YO BA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 316,
+      "nis": "85698355",
+      "nama": "HAIQAL ARDYKA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 317,
+      "nis": "85354996",
+      "nama": "M.RUSDIANSYAH RIFLA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 318,
+      "nis": "86242242",
+      "nama": "MAHESA FITRA PURNAMA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 319,
+      "nis": "72927679",
+      "nama": "MARYO TRI SAPUTRA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 320,
+      "nis": "81907198",
+      "nama": "MUHAMAD PUTRA KIPANDAN",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 321,
+      "nis": "72305833",
+      "nama": "PIREN JANUANSYAH",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 322,
+      "nis": "73451368",
+      "nama": "RADO ADEVIO",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 323,
+      "nis": "76697322",
+      "nama": "RAFFY RAZIG MAHENDRA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 324,
+      "nis": "72961485",
+      "nama": "RAFSAN GUSANTOS",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 325,
+      "nis": "78502251",
+      "nama": "RAJA STEVEN NOPRIANZA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 326,
+      "nis": "86685921",
+      "nama": "RAMA ADIKA PRATAMA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 327,
+      "nis": "81172911",
+      "nama": "SIGIT ADE SAPUTRA",
+      "kelas": "12_tbsm"
+    },
+    {
+      "id": 328,
+      "nis": "68043141",
+      "nama": "AHMAD NABAZIR",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 329,
+      "nis": "82907468",
+      "nama": "AHMAD RIJALUL KARIM",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 330,
+      "nis": "65334927",
+      "nama": "AHMAD YOGA",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 331,
+      "nis": "81340145",
+      "nama": "ANDIKA APRIANDA",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 332,
+      "nis": "85032635",
+      "nama": "FIQRI ILHAM RAMADHAN",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 333,
+      "nis": "78564791",
+      "nama": "JHOFA ADE SAPUTRA",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 334,
+      "nis": "85704587",
+      "nama": "LOVIS FRANCISCO",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 335,
+      "nis": "3092879116",
+      "nama": "M. ATTAILAH PRATAMA",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 336,
+      "nis": "85125900",
+      "nama": "MHD. AARON BADRIAN",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 337,
+      "nis": "86970464",
+      "nama": "PUTRA ARDIANSYAH",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 338,
+      "nis": "81444864",
+      "nama": "SATRIA AMANDA",
+      "kelas": "12_titl"
+    },
+    {
+      "id": 339,
+      "nis": "3076838504",
+      "nama": "AHMAD KHAIRIN",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 340,
+      "nis": "74882103",
+      "nama": "ANDRE RAMDHANY",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 341,
+      "nis": "87910875",
+      "nama": "BAGAS DANDO",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 342,
+      "nis": "84841559",
+      "nama": "DANIEL PERDINAND",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 343,
+      "nis": "72778931",
+      "nama": "ELPAN ALDIANSYAH",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 344,
+      "nis": "83160345",
+      "nama": "FAHLEPI RAMADANI",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 345,
+      "nis": "85568732",
+      "nama": "FIRLIANDO GEREAND PRAYOGA",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 346,
+      "nis": "86319699",
+      "nama": "GINTANG GUPAMA",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 347,
+      "nis": "81420230",
+      "nama": "IMAM NAUFAL",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 348,
+      "nis": "89416057",
+      "nama": "M.AKBAR",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 349,
+      "nis": "82324884",
+      "nama": "M.PAHRI YANSYAH",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 350,
+      "nis": "86744821",
+      "nama": "NABIL RAJA HARDINATA",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 351,
+      "nis": "83612480",
+      "nama": "PIKRI ANUGRAH NOPIANSYAH",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 352,
+      "nis": "81211640",
+      "nama": "REFKI GALIH RAMADHAN",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 353,
+      "nis": "81053099",
+      "nama": "RISKO ADI SAPUTRA",
+      "kelas": "12_tkro"
+    },
+    {
+      "id": 354,
+      "nis": "83048515",
+      "nama": "SAHRIL GUNAWAN",
+      "kelas": "12_tkro"
+    }
+  ]
+}

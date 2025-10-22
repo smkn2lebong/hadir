@@ -1,0 +1,64 @@
+{
+  "kelas": [
+    {
+      "kode": "10_dkv",
+      "nama": "10 DKV"
+    },
+    {
+      "kode": "10_listrik",
+      "nama": "10 LISTRIK"
+    },
+    {
+      "kode": "10_tata_busana",
+      "nama": "10 TATA BUSANA"
+    },
+    {
+      "kode": "10_tkr",
+      "nama": "10 TKR"
+    },
+    {
+      "kode": "10_tsm",
+      "nama": "10 TSM"
+    },
+    {
+      "kode": "11_dkv",
+      "nama": "11 DKV"
+    },
+    {
+      "kode": "11_dpb",
+      "nama": "11 DPB"
+    },
+    {
+      "kode": "11_titl",
+      "nama": "11 TITL"
+    },
+    {
+      "kode": "11_tkr",
+      "nama": "11 TKR"
+    },
+    {
+      "kode": "11_tsm",
+      "nama": "11 TSM"
+    },
+    {
+      "kode": "12_multimedia",
+      "nama": "12 MULTIMEDIA"
+    },
+    {
+      "kode": "12_tata_busana",
+      "nama": "12 TATA BUSANA"
+    },
+    {
+      "kode": "12_tbsm",
+      "nama": "12 TBSM"
+    },
+    {
+      "kode": "12_titl",
+      "nama": "12 TITL"
+    },
+    {
+      "kode": "12_tkro",
+      "nama": "12 TKRO"
+    }
+  ]
+}

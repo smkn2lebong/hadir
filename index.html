@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Absensi Digital SMK</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-box">
+            <div class="logo">
+                <h1>🏫 SMK ABSENSI DIGITAL</h1>
+                <p>Sistem Absensi Online</p>
+            </div>
+            
+            <div class="login-form">
+                <h2>Masuk ke Sistem</h2>
+                
+                <div class="role-selection">
+                    <button class="role-btn active" data-role="piket">GURU PIKET</button>
+                    <button class="role-btn" data-role="kepsek">KEPALA SEKOLAH</button>
+                </div>
+                
+                <form id="loginForm">
+                    <div class="form-group">
+                        <label for="password">Password:</label>
+                        <input type="password" id="password" placeholder="Masukkan password..." required>
+                    </div>
+                    
+                    <button type="submit" class="login-btn">
+                        <span class="btn-text">🔐 MASUK</span>
+                        <span class="btn-loading" style="display: none;">🔄 Memuat...</span>
+                    </button>
+                </form>
+                
+                <div class="login-info">
+                    <p><strong>Default Password:</strong></p>
+                    <p>Guru Piket: <code>piket2024</code></p>
+                    <p>Kepala Sekolah: <code>kepsek2024</code></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/config.js"></script>
+    <script src="js/auth.js"></script>
+</body>
+</html>
