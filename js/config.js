@@ -9,7 +9,8 @@ const CONFIG = {
     DATA_KELAS_URL: 'https://smkn2lebong.sch.id/hadir/data/kelas.json',
     
     // Google Apps Script URL
-    WEB_APP_URL: 'https://script.google.com/macros/s/AKfycbxaJlsavuEkPzCjQDll33Y7Mx7tazRiuk0jxIuO6jzKR0O5ksEHOAwJU-Zi0MOSRoxs/exec'
+    WEB_APP_URL: 'https://script.google.com/macros/s/AKfycbzR9mLYpekhaRjmkTYBuuAlt3ZDW9693SXG7kQHwiqcqpm4MMQDBUITuLAaBh6BxY_N/exec
+'
 };
 
 // Variabel global
@@ -19,3 +20,4 @@ let studentStatus = {};
 let studentNotes = {};
 let selectedStudent = null;
 let currentKelas = null;
+
